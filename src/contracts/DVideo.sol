@@ -5,8 +5,13 @@ contract DVideo {
   string public name = "DVideo";
   //Create id=>struct mapping
 
-  //Create Struct
-
+  struct Video {
+    uint id;
+    // Hash is returned from the IPFS
+    string hash;
+    string title;
+    address author;
+  }
 
   //Create Event
 
