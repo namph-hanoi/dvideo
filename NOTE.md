@@ -1,6 +1,4 @@
 Noted for this commit and during the tutorial:
-- msg is a Solidity's global variable.
-- Create an event and emit the event at the end of the function to notify if the work has done.
-- Method "require(true)" to make sure all variables are filled in before execute the rest of the function.
-- mapping is like define interface of an object in typescript.
-- Ending function with ";" is IMPORTANT in Solidity.
+- Command "truffle migrate --reset" to create another version of the contract and put it into the blockchain. We have to do that because the contract itself is not mutable.
+- Added Ganache network.
+- Imported the user from Ganache to the metamask.
