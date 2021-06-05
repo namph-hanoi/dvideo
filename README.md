@@ -1,3 +1,7 @@
+This repo is folked from https://github.com/dappuniversity/dvideo.
+
+Thanks a lot to Gregory and the Dapp University youtube Chanel.
+
 ## Fully decentralized application published on IPFS
 
 ## 🔧 Project Diagram:
